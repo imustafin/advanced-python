@@ -1,0 +1,8 @@
+The difference of logarithms of two small numbers is big while
+the difference of logarithms of two big numbers is small.
+
+For us, adding 1 effort to the program of effort 10 will give a much more noticeable
+effect than adding 1 effor to the program of effort 1000000000.
+
+Base 2 is probably not so important. Maybe because in computer science
+when thinking base-2 is used often.
