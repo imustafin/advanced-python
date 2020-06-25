@@ -1,0 +1,27 @@
+(a)  What is algebraic expression? How does it differs from mathematical formula?
+
+By definition, algebraic expression is a mathematical expression or object built up from integers, variables, and the algebraic operations such as addition, subtraction, multiplication, division and exponentiation.
+[https://en.wikipedia.org/wiki/Algebraic_expression]
+For example, 2x - 1 is an algebraic expression.
+
+Mathematical formula is a expression that denoting a statement about mathematical objects, and it can be evaluated to true or false, depending on the values that are given to the variables occurring in the expressions.
+[https://en.wikipedia.org/wiki/Expression_(mathematics)]
+For example, 2x - 1 > 12x is a mathematical formula.
+
+(b)  What is term rewriting?  Is it the same as symbolic computation?
+
+Rewriting is a part of symbolic computation, it covers a wide range of methods of replacing subterms of a formula with other terms.
+In symbolic computation (is the computation with symbolic expressions), the simplification during this computation is normally done through rewriting.
+[https://en.wikipedia.org/wiki/Computer_algebra]
+
+(d)  What is the difference between evaluation and interpretation (in math sense)?
+
+Evaluation is in the given expression substitute the given value for the variable and calculate the result
+Interpretation is
+
+(e)  What is lazy evaluation comparing with eager evaluation?
+Eager evaluation an expression is evaluated as soon as it is bound to a variable. An opposite alternative to eager evaluation is lazy evaluation: which delays the evaluation of an expression until its value is needed (non-strict evaluation) and which also avoids repeated evaluations (sharing).
+
+(f)  How functional programming related to algebra systems?
+
+(g)  Is lambda function in Python are placement for symbolic computation?  If yes, why?  If not, why not?  Provideat least two examples.
